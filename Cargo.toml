@@ -1,0 +1,9 @@
+[package]
+name = "syc-ip-calc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dark-light = "1.1.1"
+iced = "0.13"
+iced_aw = "0.11.0"
